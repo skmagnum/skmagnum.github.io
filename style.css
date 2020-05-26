@@ -1,0 +1,62 @@
+/*
+.navbar-dark,
+.bg-dark {
+    background-color: #cc5f06;
+}
+*/
+.navbar-brand {
+    color: #cc5f06;
+}
+.jumbotron {
+    text-align: center;
+    background: none;
+    padding-bottom: 0;
+}
+
+.sectionLight
+{
+    background-color: #eceeef;
+    padding: 2em;
+}
+.towcar,
+.manipulator,
+.sto{
+    background-color: azure;
+    padding: 1em;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+h1.forheaders
+{
+    text-align: center;
+    margin: auto;
+    display: block;
+    padding: 2%;
+}
+
+.description p {
+    font-size: 20px;
+    padding: 2%;
+    
+}
+
+p.footerinfo,
+a.footerinfo{
+    color: #f2f2f2;
+    font-size: 20px;
+}
+
+.row.foot {
+    padding: 0;
+    margin: 0;
+    padding-top: 2%;
+}
+
+ul.footerlist {
+    list-style: none;
+}
+
+
