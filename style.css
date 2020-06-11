@@ -8,8 +8,9 @@
     margin:0;
 }
 h1.headermagnum{
-    font-size: 80px;
+    font-size: 70px;
     font-weight: 600;
+    margin: auto;
 }
 .navbar-brand {
     color: #cc5f06;
@@ -77,5 +78,14 @@ p.adress {
 h2.lead {
     font-weight: 600;
     font-size: 2rem;
+}
+
+@media (min-width: 320px){
+    h1.headermagnum{
+    font-size: 55px;
+    font-weight: 600;
+    text-align: center;
+
+    }
 }
 
