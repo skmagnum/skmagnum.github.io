@@ -4,7 +4,15 @@
     background-color: #cc5f06;
 }
 */
-
+.cooperation{
+    background: #fff;
+    padding: 2em;
+}
+h2.cooperation{
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
 h1.headermagnum{
     font-size: 80px;
     font-weight: 600;
