@@ -4,6 +4,11 @@
     background-color: #cc5f06;
 }
 */
+
+h1.headermagnum{
+    font-size: 80px;
+    font-weight: 600;
+}
 .navbar-brand {
     color: #cc5f06;
 }
@@ -59,4 +64,15 @@ ul.footerlist {
     list-style: none;
 }
 
+p.phonenubmer {
+    line-height: 0.9;
+}
+p.adress {
+    line-height: 1.2;
+}
+
+h2.lead {
+    font-weight: 600;
+    font-size: 2rem;
+}
 
