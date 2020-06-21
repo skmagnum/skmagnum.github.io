@@ -1,5 +1,5 @@
 User-agent:*
-Allow: index.html
-Allow: style.css
+Allow: /index.html
+Allow: /style.css
 Allow: /assets
 Disallow: /bootstrap-4.5.0-dist
